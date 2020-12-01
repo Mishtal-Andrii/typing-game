@@ -1,5 +1,7 @@
 ## Speed Typer Typing Game
 
+[DEMO LINK](https://mishtal-andrii.github.io/typing-game/)
+
 Game to beat the clock by typing random words
 
 ## Project Specifications
